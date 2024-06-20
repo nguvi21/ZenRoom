@@ -1,0 +1,899 @@
+ID,Kode,Nama,Lantai,Fakultas,Status,Kapasitas,Luas,Rating,Tujuan
+739,,Ruang Scienfic Lecture Hall,1,TPB,Tidak Aktif,500,750,4.2,Sidang
+736,103,,1,TPB,Tidak Aktif,210,0,4.3,Kelas
+227,303,AULA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,200,218.9,3.9,Seminar
+83,102,NA,1,Fakultas Teknik,Tidak Aktif,200,1108.42,3.5,Sidang
+193,,Ruang Sidang Senat,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,200,296,3.9,Seminar
+573,ATB 1.1,Ruang Dosen/Rapat/Lab. Mikro,1,Fakultas Peternakan,Tidak Aktif,200,200,3.7,Rapat
+322,12,R. Jur. IESP,2,Fakultas Ekonomi,Tidak Aktif,164,34,4,Rapat
+507,B3-E,Kelas E,3,Fakultas Kedokteran,Aktif,160,220,3.9,Kelas
+510,B2-D,Kelas D,2,Fakultas Kedokteran,Aktif,160,220,3.6,Seminar
+577,ATB.3.1,ATB.3.1,3,Fakultas Peternakan,Aktif,150,150,3.5,Seminar
+150,405,R. Kuliah E-405,4,Fakultas Pertanian,Aktif,130,144,3.9,Sidang
+539,FR.401,RUANG FARMASI R.401,4,Fakultas Kedokteran,Aktif,130,144,4.3,Rapat
+540,FR.AULA,RUANG FARMASI R.AULA,4,Fakultas Kedokteran,Aktif,130,144,4.1,Rapat
+518,A2-LABKOM,LAB. KOMPUTER,2,Fakultas Kedokteran,Aktif,125,40,3.6,Kelas
+449,F,LAB. KIMIA DASAR,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,121,228.26,3.7,Kelas
+570,ATA.3.1,ATA.3.1,3,Fakultas Peternakan,Aktif,120,150,3.2,Kelas
+298,4,Housekeeping,1,Fakultas Ekonomi,Tidak Aktif,117,0,4.2,Rapat
+466,H,LAB. FISIKA DASAR,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,115,214.11,4.3,Sidang
+575,ATB.2.2,ATB.2.2,2,Fakultas Peternakan,Aktif,100,117,3.8,Sidang
+699,ATE.3.2,ATE.3.2,3,Fakultas Peternakan,Aktif,100,120,4,Seminar
+396,B.3.01,AULA,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,100,279.68,3.4,Seminar
+16,A3_R.SIDU,Ruang Sidang Utama,3,Fakultas Hukum,Tidak Aktif,100,137.64,3.7,Rapat
+173,L.PemodelanIK,Lab. Pemodelan Perikanan dan Kelautan,2,Fakultas Pertanian,Aktif,100,124,4.2,Sidang
+741,,Loby Gedung TPB,1,TPB,Tidak Aktif,100,280,2.9,Rapat
+153,203,R. Kuliah F-60,2,Fakultas Pertanian,Aktif,95,106.25,4.3,Kelas
+605,R.3.1,R. Serba Guna,3,Fakultas Peternakan,Tidak Aktif,85,169.6,4.2,Kelas
+509,A2-C,Kelas C,2,Fakultas Kedokteran,Tidak Aktif,85,140,4.4,Seminar
+774,C2-01,R. Kuliah (Sipil),2,Fakultas Teknik,Aktif,80,116.64,3.7,Kelas
+52,E3_AH.21,Ruang Kelas AH.21,3,Fakultas Hukum,Aktif,80,71,3.6,Rapat
+353,A1.1,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,80,117.76,3.9,Kelas
+30,B3_AH.10,Ruang Kelas AH.10,3,Fakultas Hukum,Aktif,80,80,3.3,Rapat
+36,C3_AH.19A,Ruang Kelas AH.19A,3,Fakultas Hukum,Aktif,80,80,3.9,Rapat
+91,C2-05,R. Kuliah (Sipil),2,Fakultas Teknik,Aktif,80,116.64,4.4,Seminar
+95,B2-01,R.Kuliah M1 (mesin),2,Fakultas Teknik,Aktif,80,82.8,3.7,Seminar
+130,202,R. Kuliah C-22,2,Fakultas Pertanian,Aktif,80,135,4.1,Seminar
+104,C2-08,R. E (Elektro),2,Fakultas Teknik,Aktif,80,52.5,3.8,Sidang
+358,A1.6,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,80,117.76,3.6,Rapat
+884,C2_AH.16b,Ruang Kelas AH.16b,2,Fakultas Hukum,Aktif,80,80,4.2,Kelas
+106,B2-02,R. Studio (Elektro),2,Fakultas Teknik,Aktif,80,52.5,3.5,Rapat
+94,208,R.Kuliah,2,Fakultas Teknik,Tidak Aktif,80,106.92,4.2,Seminar
+826,204,R. Kuliah F-23,2,Fakultas Pertanian,Aktif,80,72,4,Sidang
+818,C1.8,PENDIDIKAN KIMIA,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,80,92.16,3.7,Seminar
+780,C2-14,R. Kuliah (Sipil),2,Fakultas Teknik,Aktif,80,116.64,3.8,Sidang
+23,B2_AH.5,Ruang Kelas AH.5,2,Fakultas Hukum,Aktif,80,80,4,Sidang
+776,C2-02,R. Kuliah (Sipil),2,Fakultas Teknik,Aktif,80,116.64,3.7,Seminar
+35,C3_AH.20,Ruang Kelas AH.20,3,Fakultas Hukum,Aktif,80,80,3.3,Rapat
+27,B3_AH.8,Ruang Kelas AH.8,3,Fakultas Hukum,Aktif,80,80,4.1,Seminar
+101,C2-09,R. F (Elektro),2,Fakultas Teknik,Aktif,80,110.16,3.8,Kelas
+24,B2_AH.6A,Ruang Kelas AH.6A,2,Fakultas Hukum,Aktif,80,80,3.7,Seminar
+82,101,NA,1,Fakultas Teknik,Tidak Aktif,80,800.3,3.8,Rapat
+97,C2-11,R.Kuliah H (mesin),2,Fakultas Teknik,Aktif,80,116.64,3.9,Seminar
+38,C3_AH.18,Ruang Kelas AH.18,3,Fakultas Hukum,Aktif,80,80,4.2,Kelas
+62,301,A3-01,3,Fakultas Teknik,Tidak Aktif,80,136.97,3.6,Sidang
+41,C2_AH.15,Ruang Kelas AH.15,2,Fakultas Hukum,Aktif,80,80,3.8,Sidang
+28,B3_AH.9A,Ruang Kelas AH.9A,3,Fakultas Hukum,Aktif,80,80,3.6,Sidang
+25,B2_AH.6B,Ruang Kelas AH.6B,2,Fakultas Hukum,Aktif,80,80,3.9,Sidang
+127,102,R. Kuliah C-12,1,Fakultas Pertanian,Aktif,80,135,4,Seminar
+26,B2_AH.7,Ruang Kelas AH.7,2,Fakultas Hukum,Aktif,80,80,4.6,Kelas
+882,C2_AH.16a,Ruang Kelas AH.16a,2,Fakultas Hukum,Aktif,80,80,3.3,Sidang
+29,B3_AH.9B,Ruang Kelas AH.9B,3,Fakultas Hukum,Aktif,80,80,4.4,Sidang
+37,C3_AH.19B,Ruang Kelas AH.19B,3,Fakultas Hukum,Aktif,80,80,3.8,Kelas
+84,103,NA,1,Fakultas Teknik,Tidak Aktif,80,476.42,3.8,Seminar
+771,RK 1.1,FMIPA-01,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,80,,3.7,Rapat
+240,F.103,PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,70,117.39,4,Rapat
+321,12,R. Jur. Manajemen,2,Fakultas Ekonomi,Tidak Aktif,70,11,4,Rapat
+436,E,LAB. BIOLOGI DASAR,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,70,225.72,4.3,Seminar
+65,305,R.Kuliah,3,Fakultas Teknik,Tidak Aktif,70,88.14,3.6,Seminar
+508,A2-B,Kelas B,2,Fakultas Kedokteran,Tidak Aktif,70,83.3,4.4,Kelas
+824,AULA,R-AULA L.4,4,-,Tidak Aktif,70,,4.3,Rapat
+123,302,R. Kuliah B-32,3,Fakultas Pertanian,Aktif,70,85.5,3.6,Kelas
+132,301,R. Kuliah C-31,3,Fakultas Pertanian,Aktif,70,90,4,Seminar
+823,AULA,R-AULA L.4,4,-,Tidak Aktif,70,,3.8,Kelas
+175,402,R. Aula Lt.4,4,Fakultas Pertanian,Aktif,70,100,4.2,Kelas
+133,302,R. Kuliah C-32,3,Fakultas Pertanian,Aktif,70,90,3.8,Rapat
+124,303,R. Kuliah B-33,3,Fakultas Pertanian,Aktif,70,85.5,3.7,Kelas
+809,F.03,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,70,117.39,4.1,Seminar
+53,E3 AH.22,Ruang Kelas,3,Fakultas Hukum,Tidak Aktif,68,71,3.7,Sidang
+40,C2 AH.16,Ruang Kelas,2,Fakultas Hukum,Tidak Aktif,68,160,4,Sidang
+351,ss,"Dapur, Gudang I",1,Fakultas Ekonomi,Tidak Aktif,62,50,3.9,Rapat
+131,203,R. Kuliah C-23,2,Fakultas Pertanian,Aktif,60,67.5,3.9,Kelas
+126,101,R. Kuliah C-11,1,Fakultas Pertanian,Aktif,60,67.5,3.4,Sidang
+129,201,R. Kuliah C-21,2,Fakultas Pertanian,Aktif,60,67.5,3.9,Kelas
+54,E3_R.DOM,Gedung Dome,3,Fakultas Hukum,Aktif,60,113,3.9,Rapat
+906,A.F.1.1,Ruang Kuliah/Praktek,1,Fakultas Ekonomi,Aktif,60,,4.1,Rapat
+233,305,S1 Pendidikan Sosiologi,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,73.52,3.6,Sidang
+264,D.101,S1 PENDIDIKAN SOSIOLOGI,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,100.78,3.5,Seminar
+128,103,R. Kuliah C-13,1,Fakultas Pertanian,Aktif,60,67.5,3.9,Sidang
+230,302,Ruang Kuliah,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,74.96,4.4,Rapat
+166,407 / 408,R. Kuliah G-408,4,Fakultas Pertanian,Aktif,60,144,3.5,Sidang
+226,D.302,Pendidikan Matematika,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,82,3.7,Kelas
+234,306,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,100.78,3.4,Rapat
+231,303,Ruang Kuliah,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,94.71,3.7,Seminar
+225,301,Ruang Kuliah,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,63.07,4.1,Rapat
+163,403 / 404,R. Kuliah G-403,4,Fakultas Pertanian,Aktif,60,144,3.6,Sidang
+817,C1.8,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,60,92.16,3.8,Seminar
+223,201,Ruang Kuliah,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,88.19,3.6,Kelas
+606,R.3.2,R. Staf Adm. S-II,3,Fakultas Peternakan,Tidak Aktif,60,73.625,4.2,Rapat
+122,301,R. Kuliah B-31,3,Fakultas Pertanian,Aktif,60,71.25,3.7,Sidang
+224,201,Ruang Kuliah,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,87.85,3.7,Seminar
+125,304,R. Kuliah B-34,3,Fakultas Pertanian,Aktif,60,71.25,3.9,Rapat
+236,308,Pendidikan Bahasa Indonesia,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,60,100.78,3.7,Rapat
+64,304,R.Kuliah,3,Fakultas Teknik,Tidak Aktif,60,96.5,3.8,Rapat
+703,103,Lab. Computer,1,TPB,Tidak Aktif,56,15,4.4,Rapat
+704,104,Lab. Computer,1,TPB,Tidak Aktif,56,15,4.2,Seminar
+142,,R. Lab Komputer,3,Fakultas Pertanian,Aktif,55,144,4.3,Rapat
+569,ATA.3.2,ATA.3.2,3,Fakultas Peternakan,Aktif,55,80,4.1,Kelas
+840,GKB. 202,S1 Pendidikan Matematika,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4,Seminar
+116,3.8,Ruang 3.8,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,4.1,Kelas
+841,GKB.501,S1 Pendidikan Matematika,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.4,Rapat
+843,GKB.503,S1 Pendidikan Sosiologi,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.9,Seminar
+270,A.D.4.4 (D3),Ruang Kuliah,4,Fakultas Ekonomi,Aktif,50,,3.7,Seminar
+165,406,R. Kuliah G-406,4,Fakultas Pertanian,Aktif,50,72,4.4,Kelas
+844,GKB.104,S1 Pendidikan Biologi,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4.1,Kelas
+111,3.3,Ruang 3.3,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,3.6,Sidang
+110,3.2,Ruang 3.2,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,4.1,Kelas
+112,3.4,Ruang 3.4,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,3.4,Rapat
+164,205,R. Rapat,2,Fakultas Pertanian,Aktif,50,72,4,Seminar
+333,A.D.2.3 (D3),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,50,,4.1,Sidang
+455,301,R. PRAKTIKUM 2,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,50,165.64,3.7,Kelas
+851,GKB. 203,S1 Pendidikan Bahasa Inggris,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4.1,Kelas
+157,303,Ruang Seminar,3,Fakultas Pertanian,Aktif,50,72,4.1,Rapat
+158,304,Mushola,103,Fakultas Pertanian,Aktif,50,72,4.2,Sidang
+781,C1-01,R. Kuliah (Sipil),2,Fakultas Teknik,Aktif,50,96.5,4.4,Sidang
+500,1.5,R.3.1. Ruang Seminar,3,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,50,151.06,4.6,Rapat
+148,403,R. Kuliah E-403,4,Fakultas Pertanian,Aktif,50,72,3.2,Sidang
+149,404,R. Kuliah E-404,4,Fakultas Pertanian,Aktif,50,96,4.4,Sidang
+847,A.303,S1 Pendidikan Biologi,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.9,Rapat
+498,1.3,R.3.3. Ruang Lab. Diplomasi HI,3,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,151.06,3.6,Rapat
+718,304,GKB-304,3,TPB,Aktif,50,120,3.5,Seminar
+849,GKB. 106,S1 Pendidikan Bahasa Inggris,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.9,Seminar
+716,302,GKB-302,3,TPB,Aktif,50,120,4.5,Kelas
+723,402,GKB-402,4,TPB,Aktif,50,120,4.4,Rapat
+786,1.6.,Ruang 4.4,4,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,72,3.9,Kelas
+930,D-104,SI-PENDIDIKAN FISIKA,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.8,Rapat
+710,203,GKB-203,2,TPB,Tidak Aktif,50,120,4.3,Kelas
+206,B.302,Pendidikan Matematika,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,51.09,4.1,Kelas
+212,105,GKB-105,1,TPB,Aktif,50,,4.2,Rapat
+708,201,GKB-201,2,TPB,Aktif,50,120,3.8,Seminar
+898,A.E.3.2 (S2),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,4.3,Seminar
+213,106,GKB-106,1,TPB,Aktif,50,,4,Rapat
+181,308,R. Kuliah H-3.8,3,Fakultas Pertanian,Aktif,50,72,4.3,Seminar
+858,GKB. 105,S1 Pendidikan Kimia,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.7,Sidang
+453,204,R. PRAKTIKUM,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,50,141.18,3.7,Rapat
+207,B.303,Pendidikan Matematika,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,50.09,3.8,Seminar
+724,403,GKB-403,4,TPB,Tidak Aktif,50,120,4.1,Seminar
+340,A.D.4.5 (D3),Ruang Kuliah,4,Fakultas Ekonomi,Aktif,50,,3.5,Seminar
+482,1.3.,Ruang 1.1,1,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,72,4,Seminar
+338,A.D.1.2 (D3),Ruang Kuliah,1,Fakultas Ekonomi,Aktif,50,,4.3,Kelas
+66,102,NA,1,Fakultas Teknik,Tidak Aktif,50,256.2,3.4,Rapat
+797,505,GKB-505,5,TPB,Aktif,50,,4.4,Seminar
+334,A.D.2.2 (D3),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,50,,4,Sidang
+177,304,R. Kuliah H-3.4,3,Fakultas Pertanian,Aktif,50,72,3.2,Kelas
+325,A.D.3.5 (D3),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,4.1,Seminar
+701,101,101,1,TPB,Tidak Aktif,50,120,4.1,Kelas
+115,3.7,Ruang 3.7,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,4,Kelas
+506,1.5.,Ruang 4.3,4,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,72,4.1,Sidang
+118,4.1,Ruang 4.1,4,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,89.5,3.7,Seminar
+204,B.203,Pendidikan Matematika,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,54.44,3.8,Kelas
+705,105,GUdang BMN,1,TPB,Tidak Aktif,50,120,3.6,Rapat
+114,3.6,Ruang 3.6,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,3.8,Sidang
+706,105,GKB-105,1,TPB,Tidak Aktif,50,120,4,Seminar
+854,GKB. 401,S1 Pendidikan Bahasa Inggris,4,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.8,Seminar
+272,A.D.4.2 (D3),Ruang Kuliah,4,Fakultas Ekonomi,Aktif,50,,4.3,Rapat
+271,A.D.4.3 (D3),Ruang Kuliah,4,Fakultas Ekonomi,Aktif,50,,4,Seminar
+711,204,GKB-204,2,TPB,Tidak Aktif,50,120,3.2,Seminar
+820,47,A.D.3.4 (D3),3,-,Tidak Aktif,50,,4.2,Kelas
+330,A.D.2.6 (D3),Ruang Kuliah,2,Fakultas Ekonomi,Tidak Aktif,50,,3.6,Kelas
+714,207,GKB-207,2,TPB,Aktif,50,120,3.5,Kelas
+261,GKB 507,S1 PENDIDIKAN SOSIOLOGI,5,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,50,0,4.6,Sidang
+179,306,R. Kuliah H-3.6,3,Fakultas Pertanian,Aktif,50,72,3.2,Kelas
+719,305,GKB-305,3,TPB,Aktif,50,120,4.2,Rapat
+720,306,GKB-306,3,TPB,Aktif,50,120,3.7,Seminar
+709,202,GKB-202,2,TPB,Tidak Aktif,50,120,4,Kelas
+217,202,GKB-202,2,TPB,Aktif,50,,4.2,Rapat
+721,307,GKB-307,3,TPB,Aktif,50,120,3.3,Seminar
+799,104,GKB-104,1,TPB,Aktif,50,,4.5,Seminar
+717,303,GKB-303,3,TPB,Aktif,50,120,3.5,Sidang
+232,304,S1 Pendidikan Sosiologi,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,69.06,3.9,Seminar
+274,A.D.3.6 (D3),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,3.6,Sidang
+262,GKB 405,S1 PENDIDIKAN SOSIOLOGI,4,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,50,0,4,Sidang
+503,1.2.,Ruang 4.5,4,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,72,3.8,Kelas
+567,ATA 2.2,Ruang penyimpanan buku,2,Fakultas Peternakan,Tidak Aktif,50,117,4.3,Sidang
+182,309,R. Kuliah H-3.9,3,Fakultas Pertanian,Aktif,50,72,3.8,Rapat
+900,A.E.3.3 (S2),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,3.7,Seminar
+246,F09,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,108.63,4.1,Sidang
+105,B2-04,R. D2 (Elektro),2,Fakultas Teknik,Aktif,50,52.5,3.9,Kelas
+574,ATB.2.1,ATB.2.1,2,Fakultas Peternakan,Aktif,50,81,3.4,Seminar
+726,405,GKB-405,4,TPB,Aktif,50,120,4.2,Kelas
+801,506,GKB-506,5,TPB,Aktif,50,,3.9,Sidang
+728,407,GKB-407,4,TPB,Aktif,50,120,3.6,Kelas
+712,205,GKB-205,2,TPB,Aktif,50,120,4.1,Sidang
+183,402,R. Kuliah H-4.2,3,Fakultas Pertanian,Aktif,50,72,3.9,Seminar
+730,502,GKB-502,5,TPB,Aktif,50,120,3.8,Kelas
+731,504,GKB-504,5,TPB,Aktif,50,120,3.8,Rapat
+331,A.D.2.5 (D3),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,50,,3.5,Sidang
+563,ATA.1.1,ATA.1.1,1,Fakultas Peternakan,Aktif,50,81,3.4,Sidang
+732,307,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,69.11,3.7,Seminar
+876,E303,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4.1,Sidang
+188,,Ruang  Lab. Biologi 2,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,68.16,3.5,Sidang
+729,501,GKB-501,5,TPB,Aktif,50,120,3.4,Kelas
+544,FR.201,RUANG FARMASI R.201,2,Fakultas Kedokteran,Aktif,50,72,3.7,Rapat
+713,206,GKB-206,2,TPB,Aktif,50,120,4,Sidang
+184,R. S,R. Sidang,3,Fakultas Pertanian,Aktif,50,72,4,Seminar
+578,ATB.3.2,ATB.3.2,3,Fakultas Peternakan,Aktif,50,81,3.6,Seminar
+576,ATB.2.3,ATB.2.3,2,Fakultas Peternakan,Aktif,50,81,3.9,Sidang
+836,GKB .502,S1 PPKN,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.6,Rapat
+214,503,GKB-503,5,TPB,Aktif,50,,4.2,Rapat
+861,2.4,Mini Theater Prodi Ilmu Komunikasi,2,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,,3.8,Sidang
+187,,Ruang  Lab. Biologi 1,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,68.16,4,Sidang
+740,,Musholla,1,TPB,Tidak Aktif,50,150,3.7,Kelas
+798,204,S1 Pendidikan Bahasa Indonesia,2,TPB,Tidak Aktif,50,,3.9,Seminar
+504,1.3.,Ruang 4.2,4,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,72,4,Sidang
+267,A.E.2.4 (S2),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,50,,3.9,Rapat
+176,303,R. Seminar,3,Fakultas Pertanian,Aktif,50,72,3.6,Rapat
+499,1.4,R.3.2. Ruang Seminar,3,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,50,151.06,3.8,Sidang
+273,A.D.4.1 (D3),Ruang Kuliah,4,Fakultas Ekonomi,Aktif,50,,3.8,Sidang
+180,307,R. Kuliah H-3.7,3,Fakultas Pertanian,Aktif,50,72,3.9,Rapat
+159,306,Perpustakaan,3,Fakultas Pertanian,Aktif,50,72,3.9,Seminar
+715,301,GKB-301,3,TPB,Aktif,50,120,3.2,Sidang
+697,ATE.3.4,ATE.3.4,3,Fakultas Peternakan,Aktif,50,90.64,4.3,Sidang
+727,406,GKB-406,4,TPB,Aktif,50,120,3.2,Kelas
+326,A.D.3.4 (D3),Ruang Kelas,3,Fakultas Ekonomi,Aktif,50,,3.9,Kelas
+800,GKB 103,S1 Pendidikan Bahasa Indonesia,1,TPB,Tidak Aktif,50,,3.8,Kelas
+178,305,R. Kuliah H-3.5,3,Fakultas Pertanian,Aktif,50,72,4.1,Sidang
+860,GKB. 506,S1 Pendidikan Kimia,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.8,Sidang
+229,301,Ruang Kuliah,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,68.68,3.4,Seminar
+571,ATB 1.1 1,Ruang Ketua Lab. SOSEK,1,Fakultas Peternakan,Tidak Aktif,50,81,4.1,Sidang
+216,203,GKB-203,2,TPB,Aktif,50,,3.5,Seminar
+146,401,R. Kuliah E-401,4,Fakultas Pertanian,Aktif,50,144,4.2,Seminar
+845,GKB. 201,S1 Pendidikan Biologi,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4,Kelas
+725,404,GKB-404,4,TPB,Aktif,50,120,3.6,Seminar
+700,ATE.3.1,ATE.3.1,3,Fakultas Peternakan,Aktif,50,67.67,3.7,Seminar
+541,FR.302,RUANG FARMASI R.302,3,Fakultas Kedokteran,Aktif,50,72,3.9,Seminar
+215,403,GKB-403,4,TPB,Aktif,50,,3.9,Rapat
+109,3.1,Ruang 3.1,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,3.6,Kelas
+856,GKB. 505,S1 Pendidikan Bahasa Inggris,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4.2,Sidang
+160,308 / 309,R. Kuliah G-308,3,Fakultas Pertanian,Aktif,50,108,3.8,Seminar
+722,401,GKB-401,4,TPB,Aktif,50,120,4.4,Seminar
+202,B.203,Ruang Kuliah,2,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,50,54.65,4.4,Kelas
+327,A.D.3.3 (D3),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,3.4,Rapat
+329,A.D.3.1 (D3),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,4.1,Kelas
+828,202,S1 PPKn,3,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,50,,4.2,Rapat
+335,A.D.2.1 (D3),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,50,,4.1,Sidang
+332,A.D.2.4 (D3),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,50,,4,Seminar
+337,A.D.1.3 (D3),Ruang Kuliah,1,Fakultas Ekonomi,Aktif,50,,4,Rapat
+829,1.7,Ruang 3.1,3,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,,3.9,Seminar
+735,304,RUANGAN KELAS,3,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,50,69.06,3.7,Kelas
+796,204,GKB-204,2,TPB,Aktif,50,,3.6,Kelas
+339,A.D.1.1 (D3),Ruang Kuliah,1,Fakultas Ekonomi,Aktif,50,,3.6,Rapat
+831,507,GKB-507,5,TPB,Aktif,50,,3.8,Kelas
+147,402,R. Kuliah E-402,4,Fakultas Pertanian,Aktif,50,108,3.7,Kelas
+834,GKB .402,S1 PPKN,4,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.9,Rapat
+119,4.2,Ruang 4.2,4,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,89.5,3.7,Sidang
+833,GKB .301,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4.7,Rapat
+702,102,102,1,TPB,Tidak Aktif,50,120,3.7,Sidang
+505,1.4.,Ruang 4.1,4,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,72,3.6,Rapat
+502,1.1.,Ruang 4.6,4,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,50,72,3.9,Seminar
+113,3.5,Ruang 3.5,3,Fakultas Teknologi Pangan dan Agroindustri,Aktif,50,90.68,3.7,Seminar
+698,ATE.3.3,ATE.3.3,3,Fakultas Peternakan,Aktif,50,92.15,3.5,Kelas
+853,GKB. 303,S1 Pendidikan Sosiologi,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,4,Seminar
+336,A.D.1.4 (D3),Ruang Kuliah,1,Fakultas Ekonomi,Aktif,50,,3.6,Sidang
+542,FR.301,RUANG FARMASI R.301,3,Fakultas Kedokteran,Aktif,50,72,3.7,Sidang
+245,F10,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,93.07,4.1,Rapat
+838,GKB 403,S1 PENDIDIKAN SOSIOLOGI,4,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,0,3.8,Rapat
+543,FR.202,RUANG FARMASI R.202,2,Fakultas Kedokteran,Aktif,50,72,4.2,Rapat
+328,A.D.3.2 (D3),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,4.6,Kelas
+839,0,RUANG KULIAH S1 PENDIDIKAN SOSIOLOGI,5,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,50,0,4.1,Kelas
+306,A.B.3.1,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,50,,4,Rapat
+934,GKB.302,S1 Pendidikan Bahasa Indonesia,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,50,,3.8,Kelas
+918,503,S1 PPKN,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,45,,3.5,Kelas
+296,22,Ruang Administrasi Labkom,3,Fakultas Ekonomi,Tidak Aktif,45,0,3.8,Rapat
+920,101,S1 PPKN,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,45,,3.6,Sidang
+922,306,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,45,,3.7,Kelas
+878,A.B.2.2B,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,45,,4.3,Rapat
+120,4.3,Ruang Internasional/SAL,4,Fakultas Teknologi Pangan dan Agroindustri,Tidak Aktif,40,89.5,4.5,Sidang
+647,1.14,R. Praktikum Lab Analitik,3,Fakultas Peternakan,Tidak Aktif,40,117,4.3,Sidang
+356,A1.4,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.9,Sidang
+238,F26,S1 PGSD,2,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,85.45,3.8,Rapat
+891,A3.5,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.9,Sidang
+402,205,L. KOMPUTER,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,94.08,3.9,Kelas
+777,C2-03,R. Kuliah (Sipil),2,Fakultas Teknik,Aktif,40,82.8,4.1,Sidang
+779,C2-04,R. Kuliah (Sipil),2,Fakultas Teknik,Aktif,40,82.8,3.9,Kelas
+808,F.02,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,79.28,4.4,Kelas
+154,101,Lab. Tekh Hasil Hutan/Lab. Silvikultura,1,Fakultas Pertanian,Tidak Aktif,40,180,3.5,Sidang
+807,F.101,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,85.45,4.4,Rapat
+936,301,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,4.1,Sidang
+932,403,S1 PPKN,4,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,3.7,Sidang
+192,,Ruang  Workshop,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,71.28,4,Rapat
+812,F.06,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,71.47,4.4,Sidang
+536,FLAB.301,LABORATORIUM RISET DAN PENGEMBANGAN,3,Fakultas Kedokteran,Aktif,40,150,4,Rapat
+92,C2-06,R. Seminar/Ujian TA (Sipil),2,Fakultas Teknik,Aktif,40,82.8,4.3,Sidang
+140,,Lab. Fisiologi,1,Fakultas Pertanian,Aktif,40,108,4.1,Kelas
+81,B3-01,R. Seminar/JK  (Elektro),3,Fakultas Teknik,Aktif,40,207.54,4.2,Sidang
+278,A.A.3.6,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,40,,4.4,Kelas
+80,B3-05,R. Seminar/STL (Elektro),3,Fakultas Teknik,Aktif,40,168.84,4.2,Rapat
+145,,R. Lab. Manajemen Usaha Tani,3,Fakultas Pertanian,Aktif,40,144,3.9,Kelas
+76,301,NA,3,Fakultas Teknik,Tidak Aktif,40,168.84,3.9,Rapat
+470,201,R. PRAKTIKUM,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,120.78,4.2,Seminar
+74,B3-02,R. Seminar/SK (Elektro),3,Fakultas Teknik,Aktif,40,76.2,3.5,Rapat
+282,A.A.3.2,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,40,,3.8,Sidang
+73,B3-03,R. Seminar/ED (Elektro),3,Fakultas Teknik,Aktif,40,114.7,3.9,Sidang
+277,A.A.3.7,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,40,,4,Kelas
+302,A.B.2.1,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,4.2,Kelas
+78,303,NA,3,Fakultas Teknik,Tidak Aktif,40,219.51,4.1,Sidang
+67,103,NA,1,Fakultas Teknik,Tidak Aktif,40,120.4,4,Sidang
+75,205,NA,2,Fakultas Teknik,Tidak Aktif,40,76.2,4.1,Kelas
+77,302,NA,3,Fakultas Teknik,Tidak Aktif,40,195.66,3.8,Seminar
+79,B3-06,R. Seminar/LD (Elektro),3,Fakultas Teknik,Aktif,40,157.86,3.8,Sidang
+927,402,S1 PPKN,4,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,,4.2,Rapat
+931,304,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,3.9,Seminar
+96,C2-13,R.Kuliah L (mesin),2,Fakultas Teknik,Aktif,40,52.5,3.6,Kelas
+98,C2-10B,R.Kuliah G2 (mesin),2,Fakultas Teknik,Aktif,40,82.8,3.9,Kelas
+99,C2-10A,R.Kuliah G1 (Mesin),2,Fakultas Teknik,Aktif,40,82.8,4.4,Seminar
+102,D1-01 (A),Ruang Kuliah (Arsitektur),1,Fakultas Teknik,Aktif,40,52.5,4.1,Seminar
+865,C.202,PENDIDIKAN KIMIA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,4,Sidang
+107,D2-03 (B),Ruang Kuliah (Arsitektur),2,Fakultas Teknik,Aktif,40,52.5,3.6,Sidang
+121,4.4,ORMAWA,4,Fakultas Teknologi Pangan dan Agroindustri,Tidak Aktif,40,89.5,4,Seminar
+802,260,F27,2,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,,4.1,Rapat
+286,A.A.2.5,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,3.6,Kelas
+803,F27,S1 PGSD,2,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,68.67,4.2,Sidang
+938,202,S1 PPKN,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,4,Seminar
+143,,R. Lab Pemuliaan,3,Fakultas Pertanian,Aktif,40,108,4,Seminar
+169,,Lab. Nutrisi/Lab. Pakan B. Perairan,1,Fakultas Pertanian,Aktif,40,108,3.8,Seminar
+55,E2_DIH,Ruang Prodi DIH,2,Fakultas Hukum,Tidak Aktif,40,71,3.9,Seminar
+926,301,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,,4,Kelas
+924,307,S1 PPKN,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,3.4,Rapat
+810,F.04,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,88.15,3.8,Kelas
+811,F.05,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,70.59,4.3,Seminar
+252,F16,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,67.48,3.7,Kelas
+203,B.202,Ruang Kuliah,2,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,35.9,3.7,Seminar
+256,F20,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,69.84,3.6,Seminar
+814,F.08,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,73.15,3.5,Kelas
+248,F12,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,70.91,3.5,Seminar
+908,A.F.1.3,Ruang Kuliah,1,Fakultas Ekonomi,Aktif,40,,3.8,Rapat
+170,,Lab. Kesehatan Ikan,1,Fakultas Pertanian,Aktif,40,108,4,Rapat
+235,307,Ruang Kuliah,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,69.11,4.3,Sidang
+733,306,RUANGAN KELAS,3,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,100.78,4.3,Rapat
+237,,Lab. Bahasa,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,93.47,4,Seminar
+239,F25,S1 PGSD,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,79.28,4.6,Sidang
+816,F.01,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,85.45,4,Rapat
+241,F24,S1 PGSD,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,88.15,3.6,Kelas
+242,F27,S1 PGSD,2,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,68.67,3.2,Kelas
+907,A.F.1.2,Ruang Kuliah,1,Fakultas Ekonomi,Aktif,40,,4.2,Rapat
+247,F11,Lab. Microteaching S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,69.6,4.1,Sidang
+249,F13,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,69.6,4.1,Seminar
+250,F14,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,70.06,3.7,Seminar
+251,F15,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,68.73,3.8,Kelas
+253,F17,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,67.97,3.7,Kelas
+254,F18,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,69.43,3.6,Rapat
+255,F19,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,62.15,3.5,Seminar
+257,F21,S1 PGSD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,67.59,4.2,Rapat
+258,F22,S1 PGSD,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,69.44,3.8,Kelas
+259,F23,S1 PGSD,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,69.87,3.9,Rapat
+910,A.F.1.4,Ruang Kuliah,1,Fakultas Ekonomi,Aktif,40,,3.7,Kelas
+260,B.202,S1 PENDIDIKAN SOSIOLOGI,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,35.9,3.5,Rapat
+937,GKB.504,S1 Pendidikan Bahasa Indonesia,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,4.5,Seminar
+912,A.F.1.5,Ruang Kuliah,1,Fakultas Ekonomi,Aktif,40,,3.8,Sidang
+279,A.A.3.5,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,40,,4,Seminar
+281,A.A.3.3,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,40,,4.1,Sidang
+283,A.A.3.1,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,40,,4.2,Rapat
+822,F.101,F.101,1,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,40,,3.6,Seminar
+285,A.A.2.6,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,3.9,Sidang
+287,A.A.2.4,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,3.4,Sidang
+881,A.B.2.3B,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,3.6,Rapat
+289,A.A.2.2,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,3.9,Seminar
+290,A.A.2.1,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,4,Rapat
+813,F.07,S1 PG-PAUD,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,70.45,4.2,Rapat
+866,C.101,PENDIDIKAN KIMIA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,4.2,Seminar
+309,A.C.1.2,Ruang Kuliah,1,Fakultas Ekonomi,Aktif,40,,3.8,Kelas
+311,A.C.2.2,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,4.1,Rapat
+313,A.C.2.3,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,4,Rapat
+827,A.D.1.5,R.1.5,1,Fakultas Ekonomi,Aktif,40,,3.7,Rapat
+39,C2_AH.17,Ruang Kelas AH.17 DIH,2,Fakultas Hukum,Aktif,40,80,3.6,Kelas
+360,A3.2,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4.2,Sidang
+42,C1_R.MKN,Ruang Kelas MKN,1,Fakultas Hukum,Aktif,40,80,3.9,Rapat
+885,B.3.1,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.9,Kelas
+33,B1_R.VIC,Ruang Vicon,1,Fakultas Hukum,Tidak Aktif,40,77.22,4.4,Seminar
+284,A.A.2.7,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,4.3,Kelas
+914,GKB,507,5,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,3.9,Seminar
+791,E.308,S1 Pendidikan Bahasa Indonesia,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,72.86,4,Rapat
+43,C1_R.MIH A,Ruang Kelas MIH A,1,Fakultas Hukum,Aktif,40,80,3.6,Sidang
+288,A.A.2.3,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,3.9,Sidang
+45,C1_R.MIH,Ruang Prodi MIH,1,Fakultas Hukum,Tidak Aktif,40,98.4,3.8,Sidang
+762,D1-03,R. Administrasi & Dosen (Arsitektur),1,Fakultas Teknik,Tidak Aktif,40,52.5,3.8,Seminar
+886,B.3.2,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.7,Sidang
+354,A1.2,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4.3,Sidang
+355,A1.3,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4.2,Sidang
+357,A1.5,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.5,Sidang
+359,A3.1,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4.1,Sidang
+103,D1-02,R. Pengelola (Arsitektur),1,Fakultas Teknik,Tidak Aktif,40,52.5,3.4,Kelas
+361,A3.3,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4.2,Rapat
+362,A3.4,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.5,Kelas
+363,A3.6,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4.2,Kelas
+93,C2-07,R. Seminar/Ujian TA (Sipil),2,Fakultas Teknik,Aktif,40,82.8,4.3,Seminar
+365,A3.8,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.8,Seminar
+888,B.3.3,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4.5,Rapat
+280,A.A.3.4,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,40,,3.6,Seminar
+364,A3.7,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,4,Sidang
+370,A.2.5,MUSHOLLA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.6,Sidang
+44,C1_R.MIH B,Ruang Kelas MIH B,1,Fakultas Hukum,Aktif,40,80,4,Rapat
+889,B.3.4,Ruang Kuliah,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,40,58.88,3.6,Kelas
+205,B.301,Pendidikan Matematika,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,49.95,4.1,Kelas
+928,402,S1 PPKN,4,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,40,,4.2,Sidang
+314,A.C.2.4,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,3.8,Kelas
+310,A.C.2.1,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,40,,4.5,Kelas
+308,A.C.1.1,Ruang Kuliah,1,Fakultas Ekonomi,Aktif,40,,4.6,Seminar
+299,1,Ruang Dekan,2,Fakultas Ekonomi,Tidak Aktif,39,13,4.1,Kelas
+186,,Ruang  Sidang II,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,36,97.2,3.7,Kelas
+566,ATA 2.1,Ruang seminar,2,Fakultas Peternakan,Tidak Aktif,36,81,4.3,Rapat
+89,N01,Ruang Kuliah N01 - MTS,2,Fakultas Teknik,Aktif,35,58.32,4.1,Rapat
+85,111,Ruang Kuliah,2,Fakultas Teknik,Tidak Aktif,35,58.32,3.8,Kelas
+34,B1_R.PRA,Ruang Praktek Pradilan,1,Fakultas Hukum,Tidak Aktif,35,77.22,3.6,Kelas
+90,N02,Ruang Kuliah N02 - MTS,2,Fakultas Teknik,Aktif,35,58.32,4.1,Kelas
+191,,Ruang Lab. Multimedia,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,35,69.12,3.9,Sidang
+276,A.A.3.Lab.1,Lab. Komputer,3,Fakultas Ekonomi,Aktif,35,,3.6,Sidang
+307,A.B.3.2,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,35,,3.8,Sidang
+316,16,Ruang BP2EB,2,Fakultas Ekonomi,Tidak Aktif,34,37,3.3,Seminar
+772,C.304,S1 PENDIDIKAN BIOLOGI,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,42.83,3.5,Sidang
+773,RMSP 3,RMSP 3,3,Fakultas Peternakan,Aktif,30,50,3.9,Kelas
+775,D2-02,R. Kuliah D2-02 (Informatika),2,Fakultas Teknik,Aktif,30,52.5,3.7,Seminar
+782,C.302,PENDIDIKAN KIMIA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,34.35,4.2,Kelas
+783,C.301,PENDIDIKAN KIMIA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,43.99,4,Sidang
+438,301,R. PRAKTIKUM 1,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,30,130.68,3.5,Seminar
+784,C.204,SI PENDIDIKAN FISIKA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,41,3.5,Sidang
+787,A3-01,R. Kuliah A3-01 (Informatika),3,Fakultas Teknik,Aktif,30,40,3.6,Seminar
+441,304,R. PRAKTIKUM 2,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,30,130.68,3.7,Kelas
+138,,Lab. Proteksi Tanaman,1,Fakultas Pertanian,Aktif,30,108,3.4,Kelas
+197,A.304,Magister Pendidikan Bahasa Indonesia & Inggris,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,45.36,4,Sidang
+198,A.305,PENDIDIKAN KIMIA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,45.36,4.2,Kelas
+200,307,S1 PENDIDIKAN BIOLOGI,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,45.36,3.6,Seminar
+792,D.201,S1 Pendidikan Bahasa Indonesia,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,88.19,3.6,Kelas
+208,101,Prodi S2 ILMU PENDIDIKAN,1,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,30,44.85,3.2,Kelas
+136,,Lab. Kimia Tanah,1,Fakultas Pertanian,Aktif,30,126,4.4,Kelas
+794,D.102,S1 Pendidikan Bahasa Indonesia,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,72.86,4.2,Sidang
+218,E.303,Pendidikan Bahasa Inggris,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,94.71,4,Kelas
+196,A.303,Magister Pendidikan Bahasa Indonesia,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,45.36,3.7,Seminar
+72,B3-04,R. Seminar/TEL (Elektro),3,Fakultas Teknik,Aktif,30,122.1,3.6,Rapat
+788,A3-02,R. Kuliah A3-02 (Informatika),3,Fakultas Teknik,Aktif,30,40,3.7,Rapat
+795,D.202,S1 Pendidikan Bahasa Indonesia,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,87.85,4.1,Rapat
+100,C2-12,R. I (Elektro),2,Fakultas Teknik,Aktif,30,110.16,3.3,Rapat
+137,,Lab. FisikaTanah,1,Fakultas Pertanian,Aktif,30,108,3.8,Seminar
+139,,Lab. Mikrobiologi,1,Fakultas Pertanian,Aktif,30,108,3.7,Sidang
+871,A.1,Ruang Kelas A.1 KESWAN,1,Program Vokasi PDD Bima,Aktif,30,,3.6,Rapat
+141,,Lab. Agronomi,1,Fakultas Pertanian,Aktif,30,108,3.8,Seminar
+151,201,R. Kuliah F-21,2,Fakultas Pertanian,Aktif,30,49,3.8,Kelas
+152,202,R. Kuliah F-22,2,Fakultas Pertanian,Aktif,30,65,3.7,Rapat
+155,101,Lab. Manajemen Hasil Hutan,1,Fakultas Pertanian,Tidak Aktif,30,72,4.2,Seminar
+156,302,Lab. Konservasi Hutan,1,Fakultas Pertanian,Tidak Aktif,30,72,3.4,Kelas
+868,B.1,Ruang Kelas B.1 PROTER,1,Program Vokasi PDD Bima,Aktif,30,,3.7,Rapat
+538,FLAB.201,LABORATORIUM TEKNOLOGI DAN FORMULASI,2,Fakultas Kedokteran,Aktif,30,104,4.2,Rapat
+167,,Lab. Lingkungan Akuakultur,1,Fakultas Pertanian,Aktif,30,92,3.7,Seminar
+535,FLAB.302,LABORATORIUM FARMAKOLOGI,3,Fakultas Kedokteran,Aktif,30,104,4.2,Sidang
+171,L.HIDROIK,Lab. Hidrobiologi Laut,2,Fakultas Pertanian,Aktif,30,92,3.7,Kelas
+172,L.OSEANIK,Lab. Oseanografi,2,Fakultas Pertanian,Aktif,30,92,3.4,Seminar
+174,301,R. Seminar PKL,3,Fakultas Pertanian,Aktif,30,36,4.3,Sidang
+537,FLAB.202,LABORATORIUM BIOLOGI FARMASI,2,Fakultas Kedokteran,Aktif,30,104,4.1,Seminar
+870,A.2,Ruang Kelas A.2 KESWAN,1,Program Vokasi PDD Bima,Aktif,30,,4.2,Sidang
+545,FLAB.303,LABORATORIUM FARMAKOKIMIA,3,Fakultas Kedokteran,Aktif,30,104,4.1,Sidang
+194,A.301,Magister Pendidikan Bahasa Inggris,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,36.72,4.4,Seminar
+195,A.302,Magister Pendidikan Bahasa Inggris,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,36.72,3.8,Kelas
+199,306,Pendidikan Bahasa Indonesia,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,45.36,4.5,Seminar
+201,308,PENDIDIKAN KIMIA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,45.36,4.6,Sidang
+209,102,Ruang Kuliah,1,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,30,40.29,3.9,Sidang
+210,103,Ruang Kuliah,1,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,30,34.35,3.6,Rapat
+211,201,Ruang Kuliah,2,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,30,41,3.6,Rapat
+219,E.302,Pendidikan Bahasa Inggris,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,74.96,4.2,Seminar
+221,B.201,Pendidikan Bahasa Inggris,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,54.65,3.7,Seminar
+222,D.103,Pendidikan Bahasa Inggris,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,72.86,4.4,Seminar
+734,305,RUANGAN KELAS,3,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,30,73.52,4,Sidang
+243,C.303,SI PENDIDIKAN FISIKA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,43.99,3.8,Rapat
+568,ATA 2.3,Ruang baca/Perpustakaan,2,Fakultas Peternakan,Tidak Aktif,30,81,4.1,Kelas
+244,C.103,SI PENDIDIKAN FISIKA,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,34.35,3.6,Kelas
+572,ATB 1.2 1,LAB Mikro,1,Fakultas Peternakan,Tidak Aktif,30,117,3.8,Seminar
+873,B.2,Ruang Kelas B.2 BDP,1,Program Vokasi PDD Bima,Aktif,30,,3.8,Kelas
+263,A.306,S1 PENDIDIKAN SOSIOLOGI,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,45.36,4.3,Rapat
+793,D.301,S1 Pendidikan Bahasa Indonesia,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,63.07,4.1,Sidang
+265,A.E.2.6 (S2),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,30,,4.2,Kelas
+266,A.E.2.5 (S2),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,30,,4.2,Seminar
+744,106,RUANG SIDANG 1,1,Pascasarjana,Tidak Aktif,30,49,3.5,Sidang
+745,Ps1.K1,RUANG KULIAH 1,1,Pascasarjana,Aktif,30,38,3.8,Kelas
+880,879,A.B.2.3B,2,Fakultas Ekonomi,Tidak Aktif,30,,4.3,Seminar
+291,A.C.2.6,Ruang Kuliah Internasional,2,Fakultas Ekonomi,Aktif,30,,3.7,Seminar
+481,1.2.,Ruang Dosen,1,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,30,214.8,3.9,Kelas
+303,A.B.2.2A,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,30,,3.3,Sidang
+304,A.B.2.3A,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,30,,4.1,Seminar
+750,205,RUANG SIDANG 2,2,Pascasarjana,Tidak Aktif,30,80,3.8,Sidang
+752,303,RUANG KULIAH 2,3,Pascasarjana,Tidak Aktif,30,40,3.7,Rapat
+755,Ps4.K2,RUANG KULIAH 2,4,Pascasarjana,Aktif,30,40,4.3,Sidang
+751,302,RUANG KULIAH 1,3,Pascasarjana,Tidak Aktif,30,40,3.9,Kelas
+754,Ps4.K1,RUANG KULIAH 1,4,Pascasarjana,Aktif,30,40,4.1,Kelas
+825,G1.3,Ruang Kuliah,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,30,,3.9,Rapat
+756,Ps4.K3,RUANG KULIAH 3,4,Pascasarjana,Aktif,30,46,3.7,Seminar
+757,Ps4.K4,RUANG KULIAH 4,4,Pascasarjana,Aktif,30,53,4.2,Kelas
+220,E.301,Pendidikan Bahasa Inggris,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,68.68,3.6,Kelas
+758,Ps4.K5,RUANG KULIAH 5,4,Pascasarjana,Aktif,30,46,3.8,Rapat
+759,Ps4.K6,RUANG KULIAH 6,4,Pascasarjana,Aktif,30,40,4.2,Kelas
+760,Ps4.K7,RUANG KULIAH 7,4,Pascasarjana,Aktif,30,40,3.8,Seminar
+763,D3-02 (D),Ruang Kuliah (Arsitektur),3,Fakultas Teknik,Aktif,30,40,3.7,Kelas
+761,D3-01 (C),Ruang Kuliah (Arsitektur),3,Fakultas Teknik,Aktif,30,40,4,Seminar
+764,D2-01,R. Kuliah D2-01 (Informatika),2,Fakultas Teknik,Aktif,30,52.5,3.7,Sidang
+767,C.203,S1 PENDIDIKAN BIOLOGI,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,46.09,3.6,Sidang
+461,F.1.2,R. KULIAH,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,30,41.65,3.9,Rapat
+460,F.1.1,R. KULIAH,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,30,41.65,3.5,Rapat
+766,D3-03,R. Kuliah D3-03 (Informatika),3,Fakultas Teknik,Aktif,30,40,4.3,Seminar
+769,C.201,S1 PENDIDIKAN BIOLOGI,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,30,41,3.7,Seminar
+768,D3-04,R. Kuliah D3-04 (Informatika),3,Fakultas Teknik,Aktif,30,40,3.7,Kelas
+300,2,Ruang Wakil Dekan I,2,Fakultas Ekonomi,Tidak Aktif,29,37,3.7,Seminar
+315,17,Ruang Kepegawaian,1,Fakultas Ekonomi,Tidak Aktif,27,0,3.9,Kelas
+904,A.E.3.5 (S2),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,25,,4.3,Kelas
+778,RMSP 4,RMSP 4,3,Fakultas Peternakan,Aktif,25,25,4.3,Seminar
+902,A.E.3.4 (S2),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,25,,4.1,Sidang
+69,105,NA,1,Fakultas Teknik,Tidak Aktif,25,76.6,3.7,Rapat
+68,104,NA,1,Fakultas Teknik,Tidak Aktif,25,96,3.9,Rapat
+117,3.9,Ruang Lab. Komputer,3,Fakultas Teknologi Pangan dan Agroindustri,Tidak Aktif,25,93.15,3.9,Rapat
+511,B1-07,Lab. Riset Terpadu,1,Fakultas Kedokteran,Aktif,25,20,3.5,Seminar
+512,B1-05,Lab. Anatomi,1,Fakultas Kedokteran,Aktif,25,20,3.7,Rapat
+513,B1-04,Lab. Patologi Klinik,1,Fakultas Kedokteran,Aktif,25,20,3.9,Sidang
+514,B1-03,Lab. Mikrobiologi,1,Fakultas Kedokteran,Aktif,25,20,3.3,Seminar
+863,A.301,Magister Pendidikan Dasar,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,25,,3.6,Kelas
+516,B1-02,Lab. Histologi,1,Fakultas Kedokteran,Aktif,25,20,3.6,Sidang
+517,B1-01,Lab. Patologi Anatomi,1,Fakultas Kedokteran,Aktif,25,20,3.6,Kelas
+144,,R. Lab. Penyuluhan,3,Fakultas Pertanian,Aktif,25,96,3.9,Seminar
+161,401,R. Ujian Skripsi,4,Fakultas Pertanian,Aktif,25,36,3.6,Sidang
+162,402,R. Ujian Skripsi,4,Fakultas Pertanian,Aktif,25,36,3.3,Sidang
+917,A.302,Magister Pendidikan Dasar,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,25,,4.5,Kelas
+565,ATA 1.3,Ruang BEM,1,Fakultas Peternakan,Tidak Aktif,25,81,3.7,Kelas
+294,A.A.3.Lab. IAI,Lab. Komputer,3,Fakultas Ekonomi,Aktif,25,,4.2,Sidang
+915,A304,S2 PENDIDIKAN BAHASA INDONESIA,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,25,,4.2,Seminar
+305,A.B.2.4,Ruang Kuliah,2,Fakultas Ekonomi,Aktif,25,,3.8,Rapat
+607,RMSP 5,RMSP 5,3,Fakultas Peternakan,Aktif,25,73.625,3.4,Sidang
+320,A.B.1.2/Rg.SIDANG,Ruang Sidang,1,Fakultas Ekonomi,Tidak Aktif,25,,4,Kelas
+348,D021,Ketua Prodi D3 Pariwisata,2,Fakultas Ekonomi,Tidak Aktif,25,0,3.6,Rapat
+896,A.E.3.1 (S2),Ruang Kuliah,3,Fakultas Ekonomi,Aktif,25,,4.1,Rapat
+350,0,Akademi II D3 Pariwisata,2,Fakultas Ekonomi,Tidak Aktif,23,0,3.5,Kelas
+397,207,L. RISET KIMIA,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,111.36,4.4,Rapat
+398,201,L. KIMIA ORGANIK,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,111.36,4.1,Rapat
+399,202,L. OLEOKIMIA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,92.16,4.2,Kelas
+400,203,L. RISET KELAUTAN,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,92.16,3.5,Sidang
+401,204,L. RISET MATERIAL,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,92.16,3.7,Kelas
+403,206,L. INSTRUMEN & BIOFIKA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,92.16,3.5,Sidang
+404,301,L. EKOLOGI & BIOSITEMATIKA HEWAN,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,142.08,4.1,Rapat
+405,302,L. EKOLOGI & BIOSITEMATIKA TUMBUHAN,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,142.08,3.3,Sidang
+652,1.14,R.Praktikum NMT Non Ruminan,3,Fakultas Peternakan,Tidak Aktif,20,117,3.9,Sidang
+406,303,L. TEKNOLOGI MIKROBA,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,122.88,4,Sidang
+407,304,L. PK GAHARU,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,122.88,4.5,Sidang
+662,1.9,R. Praktikum TPHT,1,Fakultas Peternakan,Tidak Aktif,20,67.32,3.9,Seminar
+673,1.2,R. Praktikum Lab Potong,1,Fakultas Peternakan,Tidak Aktif,20,80.07,4.4,Seminar
+785,307,RUANGAN KELAS,3,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,20,45.36,4.2,Kelas
+895,A.E.2.1 (S2),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,20,,4.4,Seminar
+86,N05,Ruang Tunggu Dosen/ Mahasiswa MTS,2,Fakultas Teknik,Tidak Aktif,20,40,4.2,Kelas
+22,A1_R.MAJ,Ruang Majelis,3,Fakultas Hukum,Tidak Aktif,20,58.8,4,Sidang
+467,103,R. GEOFISIKA,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,33.66,4.2,Seminar
+473,301,R. INSTRUMEN,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,16.2,4.3,Sidang
+789,A3-03,R. Kuliah A3-03 (Informatika),3,Fakultas Teknik,Tidak Aktif,20,25,4.2,Rapat
+71,107,R. Seminar/Ujian TA (Mesin),1,Fakultas Teknik,Aktif,20,38.3,3.6,Kelas
+63,302,a,3,Fakultas Teknik,Tidak Aktif,20,57.43,4.2,Seminar
+491,1.8.,R.2.1.Ruang Perpustakaan Sosiologi,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,20,72.98,4.6,Rapat
+696,1.23,R. Praktikum Lab Perah,2,Fakultas Peternakan,Tidak Aktif,20,38.95,3.7,Sidang
+492,1.9.,R.2.2.Ruang Lab. Bahasa HI,2,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,20,72.98,3.8,Kelas
+493,1.10.,Ruang Lab. Sosio,2,Fakultas Ilmu Sosial dan Ilmu Politik,Aktif,20,72.98,3.9,Rapat
+497,1.2,R.3.4. Ruang Seminar,3,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,20,36.9,4.4,Sidang
+88,N03,Ruang Rapat MTS,2,Fakultas Teknik,Tidak Aktif,20,30.76,3.5,Seminar
+494,1.11.,R.2.4.Ruang Laboratorium,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,20,72.98,3.3,Kelas
+496,1.1,R.3.5. Ruang Seminar,3,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,20,36.9,4,Seminar
+70,106,NA,1,Fakultas Teknik,Tidak Aktif,20,38.3,3.8,Kelas
+874,Ps3.K2,RUANG KULIAH 2,3,Pascasarjana,Aktif,20,,4.1,Seminar
+168,,Lab. Produksi dan refroduksi Ikan,1,Fakultas Pertanian,Aktif,20,108,3.4,Sidang
+819,17,A.A.3.LAB3,3,Fakultas Keguruan dan Ilmu Pendidikan,Tidak Aktif,20,,3.8,Kelas
+268,A.E.2.3 (S2),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,20,,3.6,Rapat
+269,A.E.2.2 (S2),Ruang Kuliah,2,Fakultas Ekonomi,Aktif,20,,4.2,Rapat
+275,A.A.3.Lab. 2,Lab. Komputer,3,Fakultas Ekonomi,Aktif,20,0,4.1,Rapat
+292,A.C.3.1,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,20,66.75,4.4,Rapat
+293,A.A.3.Lab. 3,Lab. Komputer,3,Fakultas Ekonomi,Aktif,20,,3.7,Kelas
+474,302,R. OPTIK,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,20,45.9,4.5,Rapat
+297,A.A.3.9,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,20,,3.9,Kelas
+301,A.B.1.1,Ruang Kuliah,1,Fakultas Ekonomi,Aktif,20,,3.6,Sidang
+753,Ps1.K2,RUANG KULIAH 1,2,Pascasarjana,Aktif,20,31,3.8,Sidang
+616,1.9,Tempat Praktikum Nutrisi,1,Fakultas Peternakan,Tidak Aktif,20,70,3.9,Sidang
+344,D033,R. Akademi D3 Akuntansi,3,Fakultas Ekonomi,Tidak Aktif,20,16,3.9,Sidang
+625,1.18,Tempat Praktikum Nutrisi,1,Fakultas Peternakan,Tidak Aktif,20,70,3.5,Rapat
+635,2.9,R. Praktikum  Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,20,70,3.8,Kelas
+642,1.9,Tempat Praktikum Nutrisi,2,Fakultas Peternakan,Tidak Aktif,20,84,3.8,Sidang
+770,A.303,S1 PENDIDIKAN BIOLOGI,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,20,45.36,4.3,Sidang
+21,A3_AULA,Ruang Seminar,3,Fakultas Hukum,Tidak Aktif,20,58.8,3.9,Kelas
+2,A2_R.SID,Ruang Sidang Dekan,2,Fakultas Hukum,Tidak Aktif,20,45.75,4.2,Seminar
+821,17,A.A.3.LAB3,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,20,,4.2,Seminar
+59,E1_R.PDT,Ruang Dosen Hukum Perdata,1,Fakultas Hukum,Tidak Aktif,18,71,3.5,Sidang
+383,B.2.3,R. DOSEN ILMU LINGKUNGAN,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,18,121.6,3.5,Seminar
+382,B.2.1,R. DOSEN CAMPURAN,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,18,121.6,3.6,Rapat
+342,D011,R. Kaprodi D3 Pajak,1,Fakultas Ekonomi,Tidak Aktif,17,86,4.1,Seminar
+319,14,Ruang Dosen Senior,1,Fakultas Ekonomi,Tidak Aktif,16,4,4,Rapat
+323,11,Ruang Database,2,Fakultas Ekonomi,Tidak Aktif,16,4,3.3,Seminar
+379,B.1.7,R. SIDANG SENAT,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,16,44.8,4.1,Seminar
+682,1.9,R. Praktikum Reproduksi,2,Fakultas Peternakan,Tidak Aktif,15,56.89,3.3,Seminar
+683,1.1,Lobby,2,Fakultas Peternakan,Tidak Aktif,15,42.58,4.4,Kelas
+790,Ps2.K1,RUANG KULIAH 1,2,Pascasarjana,Aktif,15,20,4.3,Seminar
+8,A2_R.MASY,Ruang Dosen Hukum & Masyarakat,2,Fakultas Hukum,Tidak Aktif,15,58.6,3.9,Sidang
+134,303,R. Kuliah C-33,3,Fakultas Pertanian,Aktif,15,24,3.8,Kelas
+135,304,R. Kuliah C-34,3,Fakultas Pertanian,Aktif,15,24,3.6,Seminar
+190,,Ruang  Lab. Biologi 4,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,15,39.05,4.2,Kelas
+57,E3_R.MAT,Ruang Matajuridika,3,Fakultas Hukum,Tidak Aktif,15,34.76,4.3,Rapat
+595,R. 2.3,Belakang IKA,2,Fakultas Peternakan,Tidak Aktif,15,38,4.2,Kelas
+594,R. 2.2,R.rapat dekan,2,Fakultas Peternakan,Tidak Aktif,15,35.862,3.6,Seminar
+47,D2_R.PRP,Ruang Perpustakaan,2,Fakultas Hukum,Tidak Aktif,15,102.64,4.2,Sidang
+317,15,Ruang Penjamin Mutu,2,Fakultas Ekonomi,Tidak Aktif,15,30,3.9,Kelas
+765,A.301,S1 PENDIDIKAN BIOLOGI,3,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,15,36.72,4,Rapat
+341,D031,R. Kaprodi D3 Akuntansi,3,Fakultas Ekonomi,Tidak Aktif,15,5,4.4,Kelas
+343,D032,R. Sekprog D3 Akuntansi,3,Fakultas Ekonomi,Tidak Aktif,15,52,3.1,Sidang
+346,D013,R. Akademi D3 Pajak,1,Fakultas Ekonomi,Tidak Aktif,15,64,4.3,Seminar
+349,D022,Sek Prodi D3 Pariwisata,2,Fakultas Ekonomi,Tidak Aktif,15,0,3.6,Rapat
+352,A.E.1.1,"Ruang Kuliah, seminar dan Ujian",1,Fakultas Ekonomi,Aktif,15,,4.2,Seminar
+31,B1_R.BIS,Ruang Dosen H. Bisnis,1,Fakultas Hukum,Tidak Aktif,14,75.25,4.1,Rapat
+58,E1_R.PDN,Ruang Dosen Hukum Pidana,1,Fakultas Hukum,Tidak Aktif,14,71,4,Sidang
+366,A.2.1,R. DOSEN FISIKA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,14,117.76,4.2,Kelas
+367,A.2.2,R. DOSEN MATEMATIKA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,14,117.76,4.1,Sidang
+368,A.2.3,R. DOSEN KIMIA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,14,117.76,3.9,Sidang
+369,A.2.4,R. DOSEN BIOLOGI,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,14,117.76,4.1,Rapat
+185,,Ruang Sidang I,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,13,21.3,3.7,Rapat
+7,A2_R.HTN,Ruang Dosen Hukum Tata Negara,2,Fakultas Hukum,Tidak Aktif,12,43.52,3.7,Sidang
+6,A2_R.ACR,Ruang Dosen Hukum Acara,2,Fakultas Hukum,Tidak Aktif,12,43.52,3.9,Kelas
+515,B1-06,Ruang Hewan Coba,1,Fakultas Kedokteran,Aktif,12,16,4.1,Kelas
+523,B2-OC2-12,OSCE CENTER 2- R12,2,Fakultas Kedokteran,Aktif,12,16,4,Rapat
+806,B2-OC2-01,OSCE CENTER 2-R1,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,12,16,3.7,Rapat
+815,B2-OC2-1,OSCE CENTER 2-R1,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,12,16,4.3,Rapat
+524,B2-OC2-11,OSCE CENTER 2- R11,2,Fakultas Kedokteran,Aktif,12,16,3.4,Seminar
+525,B2-OC2-10,OSCE CENTER 2- R10,2,Fakultas Kedokteran,Aktif,12,16,4.1,Sidang
+526,B2-OC2-9,OSCE CENTER 2- R9,2,Fakultas Kedokteran,Aktif,12,16,4,Sidang
+527,B2-OC2-8,OSCE CENTER 2- R8,2,Fakultas Kedokteran,Aktif,12,16,3.4,Seminar
+528,B2-OC2-13,OSCE CENTER 2- R13,2,Fakultas Kedokteran,Aktif,12,16,3.8,Sidang
+529,B2-OC2-6,OSCE CENTER 2-R6,2,Fakultas Kedokteran,Aktif,12,16,3.8,Kelas
+530,B2-OC2-5,OSCE CENTER 2- R5,2,Fakultas Kedokteran,Aktif,12,16,4.2,Rapat
+531,B2-OC2-4,OSCE CENTER 2- R4,2,Fakultas Kedokteran,Aktif,12,16,4.1,Seminar
+532,B2-OC2-3,OSCE CENTER 2- R3,2,Fakultas Kedokteran,Aktif,12,16,3,Seminar
+533,B2-OC2-2,OSCE CENTER 2- R2,2,Fakultas Kedokteran,Aktif,12,16,3.4,Rapat
+534,B2-OC2-1,OSCE CENTER 2- R1,2,Fakultas Kedokteran,Aktif,12,16,3.8,Seminar
+546,A2-DIS5,RUANG DISKUSI 5,2,Fakultas Kedokteran,Aktif,12,16,3.6,Kelas
+547,A2-DIS4,RUANG DISKUSI 4,2,Fakultas Kedokteran,Aktif,12,16,3.4,Kelas
+548,A2-DIS3,RUANG DISKUSI 3,2,Fakultas Kedokteran,Aktif,12,16,4,Seminar
+549,A2-DIS2,Ruang DISKUSI 2,2,Fakultas Kedokteran,Aktif,12,16,3.8,Rapat
+550,A2-DIS1,RUANG DISKUSI 1,2,Fakultas Kedokteran,Aktif,12,16,3.7,Seminar
+551,A1-OC1-12,OSCE CENTER 1-R12,1,Fakultas Kedokteran,Aktif,12,16,3.7,Sidang
+552,A1-OC1-11,OSCE CENTER 1-R11,1,Fakultas Kedokteran,Aktif,12,16,4.1,Sidang
+553,A1-OC1-10,OSCE CENTER 1-R10,1,Fakultas Kedokteran,Aktif,12,16,4.2,Rapat
+554,A1-OC1-9,OSCE CENTER 1-R9,1,Fakultas Kedokteran,Aktif,12,16,3.7,Rapat
+555,A1-OC1-8,OSCE CENTER 1-R8,1,Fakultas Kedokteran,Aktif,12,16,3.7,Kelas
+556,A1-OC1-13,OSCE CENTER 1-R13,1,Fakultas Kedokteran,Aktif,12,16,3.8,Seminar
+557,A1-OC1-6,OSCE CENTER 1-R6,1,Fakultas Kedokteran,Aktif,12,16,3.7,Rapat
+558,A1-OC1-5,OSCE CENTER 1-R5,1,Fakultas Kedokteran,Aktif,12,16,3.6,Seminar
+559,A1-OC1-4,OSCE CENTER 1-R4,1,Fakultas Kedokteran,Aktif,12,16,3.8,Sidang
+560,A1-OC1-3,OSCE CENTER 1-R3,1,Fakultas Kedokteran,Aktif,12,16,3.7,Sidang
+561,A1-OC1-2,OSCE CENTER 1-R2,1,Fakultas Kedokteran,Aktif,12,16,4.2,Kelas
+562,A1-OC1-1,OSCE CENTER 1-R1,1,Fakultas Kedokteran,Aktif,12,16,3.8,Rapat
+345,D012,R. Sekprog D3 Pajak,1,Fakultas Ekonomi,Tidak Aktif,12,32,3.9,Kelas
+32,B1_R.S1,Ruang Prodi S - 1,1,Fakultas Hukum,Tidak Aktif,11,126,4.2,Seminar
+318,16,Ruang Distribusi,2,Fakultas Ekonomi,Tidak Aktif,11,9,4.2,Kelas
+324,10,Ruang Oprator Satpam,1,Fakultas Ekonomi,Tidak Aktif,11,0,3.1,Sidang
+393,B.2.9,Ruang Ujian,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,22.4,4.1,Kelas
+395,B.2.11,Ruang Ujian,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,22.4,3.6,Sidang
+394,B.2.10,Ruang Ujian,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,22.4,3.8,Sidang
+411,R.3,R. RAPAT,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,54,3.8,Sidang
+428,R.9,R. MUSHOLLA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,9,3.8,Seminar
+444,E.1.2,R. ASISTENSI,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,32.4,4.1,Kelas
+450,201,R. INSTRUMEN,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,55.86,3.7,Kelas
+46,C1_R.IUS,Ruang Jurnal IUS,1,Fakultas Hukum,Tidak Aktif,10,30.14,3.7,Rapat
+61,E2_R.DIH,Ruang Ujian DIH,2,Fakultas Hukum,Aktif,10,34.76,3.8,Sidang
+14,A1.R.LBH,Ruang Laboratorium Hukum,1,Fakultas Hukum,Tidak Aktif,10,44.28,4,Kelas
+707,107,Ruang Administrasi,1,TPB,Tidak Aktif,10,120,3.9,Rapat
+893,A.E.1.2,"Ruang Kuliah, seminar dan Ujian",1,Fakultas Ekonomi,Aktif,10,0,3.8,Seminar
+189,,Ruang  Lab. Biologi 3,2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,10,29.82,3.8,Rapat
+804,A2-T1,"R, Tutorial 1",2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,10,,3.6,Sidang
+56,E2_R.MKN,Ruang Prodi MKn,2,Fakultas Hukum,Tidak Aktif,10,71,3.4,Seminar
+913,E3_DIH,Ruang Baca DIH,2,Fakultas Hukum,Aktif,10,,4.3,Rapat
+11,A1_R.UMUM,Ruang Sub. Umum & Sarana Akademik,1,Fakultas Hukum,Tidak Aktif,10,44.28,3.9,Sidang
+805,A2-T1,"R, Tutorial 1",2,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,10,16,4.5,Seminar
+626,1.19,Ruang Pertemuan,1,Fakultas Peternakan,Tidak Aktif,10,27,3.9,Rapat
+376,B.1.2,R. SIDANG DEKAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,35.2,3.7,Kelas
+377,B.1.9,R. BP3F,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,22.4,4,Sidang
+378,B.1.8,R. GPM,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,10,22.4,4.4,Sidang
+60,E1_R.GB,Ruang Guru Besar,1,Fakultas Hukum,Tidak Aktif,9,62.54,3.9,Rapat
+653,2.6,Ruang Tunggu,3,Fakultas Peternakan,Tidak Aktif,8,24,3.5,Sidang
+689,1.16,R. Praktikum LabPemuliaan,2,Fakultas Peternakan,Tidak Aktif,8,29.1,3.6,Seminar
+579,R.1.1,Ruang Staf Umum Perlengkapan,1,Fakultas Peternakan,Tidak Aktif,8,61.675,3.8,Kelas
+582,R.1.2,Ruang Staf Umum Perlengkapan,1,Fakultas Peternakan,Tidak Aktif,8,61.675,3.5,Kelas
+584,R.1.3,Ruang Staf Umum Perlengkapan,1,Fakultas Peternakan,Tidak Aktif,8,61.675,4.1,Kelas
+587,R.1.4,Ruang Staf Akademik,1,Fakultas Peternakan,Tidak Aktif,8,61.675,3.7,Kelas
+49,D1_R.GPM,Ruang GPM,1,Fakultas Hukum,Tidak Aktif,8,23.5,4.1,Rapat
+602,R. 2.10,sebelah keuangan,2,Fakultas Peternakan,Tidak Aktif,8,29.7,3.8,Rapat
+18,A3_R.HI,Ruang Dosen H. Internasional,3,Fakultas Hukum,Tidak Aktif,8,27,3.7,Seminar
+641,1.8,Ruang Tunggu,2,Fakultas Peternakan,Tidak Aktif,8,24,4.4,Sidang
+20,A3_R.BP3F,Ruang BP3F,3,Fakultas Hukum,Tidak Aktif,7,27,3.7,Rapat
+12,A1_R.AKD,Ruang Akademik,1,Fakultas Hukum,Tidak Aktif,7,51.63,3.9,Kelas
+13,A1_R.KMHS,Ruang Sub. Kemahasiswaan,1,Fakultas Hukum,Tidak Aktif,7,30.5,3.6,Rapat
+312,0,R. Kasubbag. Pendidikan,1,Fakultas Ekonomi,Tidak Aktif,7,,3.7,Rapat
+381,B.1.10,R. KEUANGAN & KEPEGAWAIAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,7,67.2,3.8,Seminar
+1,A2_R.DEK,Ruang Dekan,2,Fakultas Hukum,Tidak Aktif,6,30.05,3.9,Seminar
+3,A2.R.WD1,Ruang Wakil Dekan I,2,Fakultas Hukum,Tidak Aktif,6,20.25,3.8,Sidang
+9,A1_R.KTU,Ruang Kabag. Tata Usaha,1,Fakultas Hukum,Tidak Aktif,6,21.6,4.2,Rapat
+10,A1_R.KEUP,Ruang Sub. Keuangan & Kepeg.,1,Fakultas Hukum,Tidak Aktif,6,43.92,3.5,Kelas
+468,104,R. PLP,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,6,39.78,4.1,Seminar
+87,N04,Ruang Tunggu Tamu/ Dosen MTS,2,Fakultas Teknik,Tidak Aktif,6,20,3.8,Seminar
+5,A2_R.WD3,Ruang Wakil Dekan III,2,Fakultas Hukum,Tidak Aktif,6,20.25,4,Rapat
+4,A2_R.WD2,Ruang Wakil Dekan II,2,Fakultas Hukum,Tidak Aktif,6,20.25,4.1,Kelas
+564,ATA 1.2,Ruang Dosen SOSEK,1,Fakultas Peternakan,Tidak Aktif,6,117,3.6,Rapat
+603,R. 2.11,R. Arsip,2,Fakultas Peternakan,Tidak Aktif,6,19.8,3.8,Kelas
+418,R.16,R. KULTUR IVF,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,32.4,3.2,Rapat
+422,R.21,R. PLP STAFF,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,18,3.7,Seminar
+426,R.5,R. MEETING ROOM,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,21.6,4,Kelas
+442,E.1.3,LAB. LINGKUNGAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,38.88,3.4,Rapat
+446,E.2.1,R. COAS,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,16,4.1,Rapat
+451,202,R. ALAT GELAS,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,67.5,3.9,Kelas
+462,F.1.7,MUSHOLLA,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,16,3.9,Seminar
+475,303,R. MATERIAL,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,52.65,3.8,Kelas
+228,,Lab. IPS,1,Fakultas Keguruan dan Ilmu Pendidikan,Aktif,5,45.77,4.1,Kelas
+738,,Ruang Kordinator TPB,1,TPB,Tidak Aktif,5,55,4,Seminar
+746,201,RUANG UJIAN 1,2,Pascasarjana,Tidak Aktif,5,14,3.5,Sidang
+747,202,RUANG UJIAN 2,2,Pascasarjana,Tidak Aktif,5,14,4.1,Kelas
+51,D1_R.JTR,Ruang Jati Swara,1,Fakultas Hukum,Tidak Aktif,5,40.65,3.9,Seminar
+599,R. 2.7,Kepegawaian,2,Fakultas Peternakan,Tidak Aktif,5,33,4.2,Seminar
+600,R. 2.8,Keuangan,2,Fakultas Peternakan,Tidak Aktif,5,20.1,3.9,Sidang
+748,203,RUANG UJIAN 3,2,Pascasarjana,Tidak Aktif,5,14,4.3,Kelas
+749,204,RUANG UJIAN 4,2,Pascasarjana,Tidak Aktif,5,14,3.8,Rapat
+385,B.2.2,R. ADMIN KEMAHASISWAAN,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,5,24,4.2,Sidang
+413,R.9,R. PREPARASI SAMPEL,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,4,54,3.5,Seminar
+421,R.20,R. ANALISIS SPEKTROFOTOMETRI,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,4,54,3.6,Rapat
+437,104,L. EKOLOGI,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,4,24,4.2,Seminar
+440,303,R. MIKROTEKNIK,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,4,24,3.1,Seminar
+743,,Gudang ATK TPB,1,TPB,Tidak Aktif,4,24,4,Rapat
+589,R.1.5,Ruang Prodi D-III,1,Fakultas Peternakan,Tidak Aktif,4,43.8,4.5,Rapat
+591,R.1.6,Ruang Prodi S-1,1,Fakultas Peternakan,Tidak Aktif,4,43.8,4.4,Seminar
+408,201,L. MIKROBIOLOGI R.13,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,7.5,4,Kelas
+409,202,R. KULTUR JARINGAN R.12,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,5.4,3.4,Kelas
+410,302,R. MIKROSKOP R.10,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,39.6,3.7,Sidang
+414,R.10,R. INKUBASI EXPLAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,10.5,3.9,Seminar
+415,R.11,R. GROWTH CHAMBER,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,9.9,4.2,Sidang
+416,R.14,R. STERILISASI,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,18,3.8,Rapat
+417,R.15,R. KULTUR SEL,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,24,4.1,Sidang
+423,R.2,R. ANALISIS LOGAM,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,25.2,3.9,Kelas
+424,R.3,R. PENYIMPANAN SAMPEL,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,24,4.3,Seminar
+425,R.4,R. ANALISIS DATA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,18,3.7,Rapat
+427,R.8,R. ANALISIS BIOKIMIA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,23.4,3.7,Kelas
+429,R.11,R. KULTUR SEL I,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,39.6,3.7,Rapat
+430,R.12,R. KULTUR SEL II,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,18,3.8,Seminar
+431,R.13,R. ANALISIS MOLEKULER,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,28.8,4.2,Rapat
+432,R.14,R. PREPARASI SAMPEL,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,28.8,3.9,Sidang
+433,R.15,R. ISOLASI DNA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,21,3.6,Seminar
+434,R.16,R. PCR,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,28.8,4.1,Rapat
+435,R.17,R. ELEKTROFORESIS,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,25.2,4,Sidang
+439,302,R. MIKROSKOP,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,16,3.9,Seminar
+447,E.2.2,R. MIKRO,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,24,4.2,Kelas
+19,A3_R.BHS,Ruang Lab. Bahasa,3,Fakultas Hukum,Tidak Aktif,3,27,3.6,Seminar
+465,F.1.6,R. LABORAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,14.4,4.1,Rapat
+478,H.2.3,R. ALAT ELEKTRONIKA DASAR,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,26.01,3.8,Sidang
+480,1.1.,Ruang Pelayanan Akademik,1,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,3,214.8,4,Sidang
+522,A1-05,Ruang Kaprodi,1,Fakultas Kedokteran,Tidak Aktif,3,22,4.2,Seminar
+295,A.A.3.8,Ruang Kuliah,3,Fakultas Ekonomi,Aktif,3,,4.4,Kelas
+604,R. 2.12,Gudang Arsip,2,Fakultas Peternakan,Tidak Aktif,3,2.81,3.5,Sidang
+387,B.2.13,R. ADMIN PRODI 2,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,3,16.8,3.8,Seminar
+445,E.1.1,R. KALAB & LABORAN BIOLOGI DASAR,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,2,38.88,3.8,Seminar
+448,305,R. ALAT,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,2,14.4,3.9,Rapat
+452,203,R. BAHAN,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,2,10.332,3.8,Sidang
+15,A2_R.PRO,Ruang Protokol Dekan,2,Fakultas Hukum,Tidak Aktif,2,13.5,4.3,Seminar
+469,105,R. WORKSHOP,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,2,39.78,3.4,Seminar
+48,D1_R.UNR,Ruang Unrev,1,Fakultas Hukum,Tidak Aktif,2,26.22,4.1,Rapat
+50,D1_R.PKK,Ruang PKK,1,Fakultas Hukum,Tidak Aktif,2,15.39,3.8,Rapat
+479,H.2.1,R. JAGA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,2,16.83,4,Seminar
+459,F.2.2,R. PENELITI,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,2,14.82,3.7,Seminar
+742,,Ruang Sound TPB,1,TPB,Tidak Aktif,2,18,4,Kelas
+386,B.2.12,R. ADMIN PRODI 1,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,2,16.8,3.7,Sidang
+388,B.2.4,R. KAPRODI KIMIA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,25.6,4,Rapat
+389,B.2.5,R. KAPRODI BIOLOGI,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,25.6,3.6,Sidang
+644,1.11,R. Dosen Lab Analitik,3,Fakultas Peternakan,Tidak Aktif,1,12,4,Rapat
+390,B.2.6,R. KAPRODI FISIKA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,25.6,4.4,Kelas
+391,B.2.7,R. KAPRODI MATEMATIKA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,25.6,3.7,Kelas
+645,1.12,R. Dosen Lab Analitik,3,Fakultas Peternakan,Tidak Aktif,1,12,4.2,Sidang
+392,B.2.8,R. KAPRODI ILMU LINGKUNGAN,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,22.4,4.5,Rapat
+646,1.13,R. Dosen Lab Analitik,3,Fakultas Peternakan,Tidak Aktif,1,12,3.8,Seminar
+648,1.1,R. Dosen NMT Non Ruminan,3,Fakultas Peternakan,Tidak Aktif,1,9,4.1,Seminar
+649,1.11,R. Dosen NMT Non Ruminan,3,Fakultas Peternakan,Tidak Aktif,1,12,4.1,Sidang
+650,1.12,R. Dosen NMT Non Ruminan,3,Fakultas Peternakan,Tidak Aktif,1,12,3.6,Kelas
+651,1.13,R. Dosen NMT Non Ruminan,3,Fakultas Peternakan,Tidak Aktif,1,12,3.9,Rapat
+654,1.1,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,14.86,4.6,Sidang
+655,1.2,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,17.17,4,Seminar
+412,R.4,R. KALAB,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,9,3.8,Kelas
+656,1.3,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,13.04,4.2,Seminar
+419,R.17,R. DOSEN PENELITI,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,9,4,Kelas
+657,1.4,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,13.04,4.1,Seminar
+658,1.5,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,12.96,4.1,Kelas
+659,1.6,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,12.96,3.4,Rapat
+420,R.19,R. DOSEN PENELITI 2,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,9,4,Rapat
+660,1.7,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,12.96,3.7,Seminar
+661,1.8,R. Dosen TPHT,1,Fakultas Peternakan,Tidak Aktif,1,12.96,3.5,Sidang
+663,1.1,R. Tunggu,1,Fakultas Peternakan,Tidak Aktif,1,48.9,3.5,Kelas
+664,1.11,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,10.89,3.5,Kelas
+665,1.12,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,10.89,4.4,Sidang
+666,1.13,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,13.04,3.7,Kelas
+667,1.14,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,13.04,3.8,Rapat
+668,1.15,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,13.04,3.3,Kelas
+669,1.16,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,12.96,3.7,Sidang
+443,E.1.4,R. KALAB LINGKUNGAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,38.88,3.5,Seminar
+670,1.17,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,12.96,3.9,Sidang
+671,1.18,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,12.96,3.7,Rapat
+672,1.19,R. Dosen Lab Potong,1,Fakultas Peternakan,Tidak Aktif,1,12.96,3.8,Kelas
+674,1.1,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,10.89,4,Kelas
+675,1.2,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,20.89,3.7,Seminar
+676,1.3,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,11.22,4.2,Sidang
+454,205,R. TIMBANG,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,11.4,4.3,Sidang
+677,1.4,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,11.22,3.7,Rapat
+456,302,R. BAHAN PADAT,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,23.94,4.1,Seminar
+457,303,R. BAHAN CAIR 1,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,16.32,3.9,Rapat
+458,304,R. BAHAN CAIR 2,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,16.32,3.7,Seminar
+678,1.5,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,12.96,3.8,Kelas
+679,1.6,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,12.96,3.4,Sidang
+681,1.8,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,12.96,4.2,Rapat
+463,F.1.4,R. ADMIN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,5,4,Seminar
+464,F.1.5,R. KALAB,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,12,3.8,Seminar
+680,1.7,R. Dosen Reproduksi,2,Fakultas Peternakan,Tidak Aktif,1,12.96,3.5,Kelas
+684,1.11,R. Dosen LabPemuliaan,2,Fakultas Peternakan,Tidak Aktif,1,11.89,4.1,Rapat
+471,202,R. MEKANIKA,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,16.2,3.6,Sidang
+685,1.12,R. Dosen LabPemuliaan,2,Fakultas Peternakan,Tidak Aktif,1,16.01,3.7,Rapat
+472,203,R. ELEKTRONIKA,3,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,25.74,4.2,Seminar
+686,1.13,R. Dosen LabPemuliaan,2,Fakultas Peternakan,Tidak Aktif,1,11.06,3.7,Rapat
+687,1.14,R. Dosen LabPemuliaan,2,Fakultas Peternakan,Tidak Aktif,1,16.85,3.9,Rapat
+476,H.1.4,R. ADMIN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,13.77,3.8,Sidang
+477,H.1.5,R. KALAB,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,18.36,4.1,Sidang
+688,1.15,R. Dosen LabPemuliaan,2,Fakultas Peternakan,Tidak Aktif,1,9.9,4.4,Seminar
+484,1.1.,Ruang Dekan,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,1,25.522,4,Kelas
+487,1.4.,Ruang Wakil Dekan II,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,1,7.54,3.2,Seminar
+486,1.3.,Ruang Wakil Dekan I,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,1,7.54,4.1,Rapat
+488,1.5.,Ruang Wakil Dekan III,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,1,7.54,3.3,Kelas
+489,1.6.,Ruang Protokoler,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,1,7.36,3.6,Kelas
+737,,Ruang Ketua TPB,1,TPB,Tidak Aktif,1,20,4.1,Seminar
+519,A1-02,Ruang Wakil Dekan 1,1,Fakultas Kedokteran,Tidak Aktif,1,18.33,3.9,Rapat
+520,A1-03,Ruang Wakil Dekan 2,1,Fakultas Kedokteran,Tidak Aktif,1,18.33,3.7,Seminar
+521,A1-04,Ruang Wakil Dekan 3,1,Fakultas Kedokteran,Tidak Aktif,1,18.33,3.8,Seminar
+580,R.1.1,Ruang Kasubbag,1,Fakultas Peternakan,Tidak Aktif,1,15.2,3.5,Sidang
+583,R.1.2,Ruang Kasubbag,1,Fakultas Peternakan,Tidak Aktif,1,15.2,4.2,Kelas
+593,R. 2.1,Dekan,2,Fakultas Peternakan,Tidak Aktif,1,45.125,4.1,Seminar
+585,R.1.3,Ruang Kasubbag,1,Fakultas Peternakan,Tidak Aktif,1,15.2,3.8,Kelas
+611,1.4,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,12,4.3,Kelas
+588,R.1.4,Ruang Kasubbag,1,Fakultas Peternakan,Tidak Aktif,1,15.2,4,Rapat
+590,R.1.5,Ruang Ka. Prodi D-III,1,Fakultas Peternakan,Tidak Aktif,1,15.2,3.7,Rapat
+592,R.1.6,Ruang Ka. ProdiS-1,1,Fakultas Peternakan,Tidak Aktif,1,13.2,3.4,Seminar
+640,1.7,R. Dosen Lab Hijauan,2,Fakultas Peternakan,Tidak Aktif,1,12,3.9,Seminar
+596,R. 2.4,WD-1,2,Fakultas Peternakan,Tidak Aktif,1,28.5,3.8,Rapat
+597,R. 2.5,WD-2,2,Fakultas Peternakan,Tidak Aktif,1,29.925,3.8,Seminar
+598,R. 2.6,WD-3,2,Fakultas Peternakan,Tidak Aktif,1,22.562,3.3,Kelas
+601,R. 2.9,KTU,2,Fakultas Peternakan,Tidak Aktif,1,19.8,4.2,Kelas
+608,1.1,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,9,3.8,Rapat
+609,1.2,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,2,3.8,Kelas
+610,1.3,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,9,3.5,Kelas
+643,1.1,R. Dosen Lab Analitik,3,Fakultas Peternakan,Tidak Aktif,1,9,3.9,Kelas
+612,1.5,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,12,3.6,Rapat
+613,1.6,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,9,4.1,Rapat
+614,1.7,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,12,3.6,Kelas
+615,1.8,R. Dosen Lab Nutrisi/Timur,1,Fakultas Peternakan,Tidak Aktif,1,9,3.4,Kelas
+617,1.1,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,9,3.5,Rapat
+618,1.11,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,12,3.6,Rapat
+619,1.12,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,9,3.7,Rapat
+620,1.13,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,12,3.9,Sidang
+621,1.14,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,12,4,Sidang
+622,1.15,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,9,3.5,Seminar
+623,1.16,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,12,3.5,Rapat
+624,1.17,R. Dosen Lab Nutrisi/Barat,1,Fakultas Peternakan,Tidak Aktif,1,9,3.9,Sidang
+627,2.1,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,9,3.9,Rapat
+639,1.6,R. Dosen Lab Hijauan,2,Fakultas Peternakan,Tidak Aktif,1,9,3.8,Rapat
+628,2.2,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,12,3.7,Sidang
+629,2.3,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,9,4.3,Seminar
+630,2.4,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,12,4,Sidang
+631,2.5,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,12,3.9,Rapat
+632,2.6,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,9,3.6,Rapat
+371,B.1.3,R. DEKAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,22.4,3.4,Kelas
+633,2.7,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,12,3.8,Rapat
+634,2.8,R. Dosen NMT Non Ruminan,2,Fakultas Peternakan,Tidak Aktif,1,9,4.2,Kelas
+372,B.1.1,R. WAKIL DEKAN I,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,22.4,4.7,Sidang
+373,B.1.5,R. WAKIL DEKAN II,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,22.4,3.8,Rapat
+374,B.1.6,R. WAKIL DEKAN III,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,22.4,4,Seminar
+375,B.1.4,R. KTU,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,22.4,3.4,Sidang
+636,2.1,R. Dosen Lab Hijauan,2,Fakultas Peternakan,Tidak Aktif,1,9,3.5,Seminar
+380,B.1.11,R. PERLENGKAPAN,1,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,24,4.1,Sidang
+384,B.2.2.1,R. KASUB KEMAHASISWAAN,2,Fakultas Matematika dan Ilmu Pengetahuan Alam,Aktif,1,24,4,Seminar
+637,2.2,R. Dosen Lab Hijauan,2,Fakultas Peternakan,Tidak Aktif,1,9,4.3,Sidang
+638,2.5,R. Dosen Lab Hijauan,2,Fakultas Peternakan,Tidak Aktif,1,12,3.5,Sidang
+17,A3_R.ARS,Ruang Arsip Akademik,3,Fakultas Hukum,Tidak Aktif,0,13.16,3.8,Sidang
+483,1.4.,Ruang Gudang,1,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,0,12.12,4.3,Sidang
+690,1.17,R. Dosen Lab Perah,2,Fakultas Peternakan,Tidak Aktif,0,12.99,3.9,Rapat
+691,1.18,R. Dosen Lab Perah,2,Fakultas Peternakan,Tidak Aktif,0,12.88,3.8,Sidang
+485,1.2.,Ruang Rapat Dekan,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,0,64.86,3.5,Sidang
+490,1.7.,Ruang Tamu Dekan,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,0,25.522,4,Sidang
+495,1.12.,Ruang Gudang,2,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,0,6.6,3.5,Sidang
+108,2,Ruang Akademik,2,Fakultas Teknologi Pangan dan Agroindustri,Tidak Aktif,0,180.56,3.8,Rapat
+501,1.6.,Ruang Gudang,3,Fakultas Ilmu Sosial dan Ilmu Politik,Tidak Aktif,0,6.6,3.2,Seminar
+692,1.19,R. Dosen Lab Perah,2,Fakultas Peternakan,Tidak Aktif,0,13.96,4.2,Rapat
+693,1.2,R. Dosen Lab Perah,2,Fakultas Peternakan,Tidak Aktif,0,23.96,3.9,Sidang
+694,1.21,R. Dosen Lab Perah,2,Fakultas Peternakan,Tidak Aktif,0,12.21,3.7,Rapat
+347,A.D.1.Lab1,Lab Komputer,1,Fakultas Ekonomi,Aktif,0,0,3.5,Kelas
+581,R.1.1,Gudang,1,Fakultas Peternakan,Tidak Aktif,0,11.9,3.5,Sidang
+586,R.1.3,Gudang,1,Fakultas Peternakan,Tidak Aktif,0,11.9,3.6,Sidang
+695,1.22,R. Dosen Lab Perah,2,Fakultas Peternakan,Tidak Aktif,0,17.16,3.9,Rapat
